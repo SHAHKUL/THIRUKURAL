@@ -1,0 +1,178 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(back.jpg);
+    background-size: cover;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;  
+    width: 500px;
+}
+
+input{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+#sec_tam{
+    font-size:x-large;
+    color: blue;
+    margin-top: 100px;
+}
+
+#thiru1{
+    height: 300px;
+    width: 500px;
+    
+}
+
+#thiru2{
+    height: 300px;
+    margin-left: -55px;
+    width: 1100px;
+}
+
+
+#text{
+    height: 50px;
+    width: 340px;
+    background-color:#fff;
+    border: none;
+    outline: none;
+    padding: 0px 25px;
+    border-radius: 25px 0px 0px 25px;
+    margin-left: -300px;
+}
+
+#button{
+    position: relative;
+    border-radius: 0 25px 25px 0;
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    cursor:pointer;
+    background-color: #fff107; 
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: -8px;
+}
+
+
+#button:hover{
+    background: #ff5722;
+      }
+
+
+#sec_tam{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+   margin-left: 600px;
+   margin-top: 200px;
+}
+
+
+#sect_tam{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+   margin-left: 400px;
+   margin-top: 0px;
+}
+
+
+#chap{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+    margin-left: 400px;
+
+}
+
+#line1{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+#line2{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+
+#exp{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+/* --------------------------------------ENGLISH------------------------------- */
+
+#chap_eng{
+    font-size:x-large;
+    color: blue;
+    margin-top: 100px;
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+   margin-left: 600px;
+   margin-top: 100px;
+
+}
+
+#sect_eng{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 50px;
+   margin-left: 300px;
+   margin-top: 20px;
+
+}
+
+
+#chapgrp_eng{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 700px;
+    height: 30px;
+
+
+}
+
+
+#eng{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 450px;
+}
+
+
+#eng_exp{
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 10px;
+
+
+}
